@@ -1,5 +1,5 @@
 # BikeShareAnalyzer
-
+![BikeShareAnalyzer](screen.png)
 BikeShareAnalyzer is a Python command-line tool for analyzing bike share data. It provides various statistics and insights based on selected filters, such as popular times of travel, stations, trip durations, and user information. Analyze bike share data for cities like Chicago, New York, and Washington and make informed decisions based on the data.
 
 ## Installation
