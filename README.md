@@ -42,7 +42,4 @@ Contributions to BikeShareAnalyzer are welcome! If you find any issues or have s
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Note: The bike share data files (`chicago.csv`, `new_york_city.csv`, `washington.csv`) are not included in this repository. Make sure to have the appropriate data files available in the same directory as the program to run the analysis.
-
 Enjoy analyzing the bike share data!
